@@ -1,7 +1,6 @@
 # Write your MySQL query statement below
-select max(t.num) as num 
-from ( select m.num
+select max(m.num) as num 
 from(select num, count(num) as c 
 from Mynumbers
-group by num) as m
-where c=1) as t;
+group by num
+having count(num)=1) as m;
