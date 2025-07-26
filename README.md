@@ -1,3 +1,41 @@
+# LeetCode SQL Solutions
+
+Welcome to my repository of **50 SQL problem solutions** from LeetCode!  
+These problems range from easy to hard and have helped me strengthen my SQL querying skills, preparing me for real-world data challenges and analytics roles.
+
+---
+
+## 🛠️ Skills and Concepts Practiced
+
+- Writing efficient `SELECT` queries with filtering and logical conditions  
+- Joining tables using different types of `JOIN`s (INNER, LEFT, RIGHT, SELF)  
+- Using aggregation functions (`GROUP BY`, `HAVING`, `COUNT`, `SUM`, etc.)  
+- Implementing subqueries, Common Table Expressions (CTEs), and window functions (`RANK()`, `ROW_NUMBER()`)  
+- Handling string manipulation and date functions  
+- Data cleaning techniques like removing duplicates and validating data  
+- Writing optimized and readable SQL queries for complex scenarios  
+
+---
+
+## 📂 Repository Overview
+
+Each solution file includes:  
+- A brief description of the problem  
+- Clean and well-commented SQL code  
+  
+
+This repo reflects my progress in mastering SQL through consistent practice and problem-solving.
+
+---
+
+## About Me
+
+I am passionate about data analytics and continuously developing my skills to solve data challenges effectively. This project demonstrates my commitment to building strong technical foundations for a career in data.
+
+---
+
+Feel free to explore the solutions, provide feedback, or connect with me on [LinkedIn](https://www.linkedin.com/in/nethra-renjarla-920b3a197/).
+
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
